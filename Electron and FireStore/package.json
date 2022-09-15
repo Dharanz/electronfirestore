@@ -1,0 +1,17 @@
+{
+  "name": "SampleApp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-packager . SampleApp"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^20.1.3",
+    "electron-packager": "^16.0.0"
+  }
+}

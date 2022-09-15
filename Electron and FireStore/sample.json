@@ -1,0 +1,38 @@
+{
+    "Books": [
+        {
+            "id": "91246891234981273",
+            "Name": "xxxx",
+            "Year": 2017,
+            "Author": "qwerty",
+            "Publisher": [
+                {
+                    "Name": "xxx",
+                    "Version": 1.0
+                },
+                {
+                    "Name": "yyyy",
+                    "Version": 2.0
+                }
+            ]          
+        },
+        {
+            "id": "91246891234981273",
+            "Name": "xxxx",
+            "Year": 2017,
+            "Author": "qwerty"            
+        },
+        {
+            "id": "91246891234981273",
+            "Name": "xxxx",
+            "Year": 2017,
+            "Author": "qwerty"            
+        },
+        {
+            "id": "91246891234981273",
+            "Name": "xxxx",
+            "Year": 2017,
+            "Author": "qwerty"            
+        }
+    ]
+}
